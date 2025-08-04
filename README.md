@@ -73,7 +73,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## 📬 Contact
 
-Made with ❤️ by <strong>Your Name</strong><br>
-📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-🐙 GitHub: <a href="https://github.com/your-username" target="_blank">@your-username</a>
+Made with ❤️ by <strong>Safa Hichri and Lamiss khalfallah </strong><br>
+
 
