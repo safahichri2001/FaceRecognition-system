@@ -13,18 +13,12 @@
 </p>
 
 ---
+<ul>
+  <li>🔐 <strong>User Registration:</strong> Register new users with facial data</li>
+  <li>📷 <strong>Real-Time Recognition:</strong> Detect and recognize faces via webcam</li>
+  <li>📅 <strong>Access Logging:</strong> Log access and leave times automatically</li>
+  <li>📱 <strong>Mobile App Integration:</strong> Connect with mobile app for managing reservations</li>
+  <li>📝 <strong>History Management:</strong> View and manage access history via text files</li>
+</ul>
 
-## 📁 Project Structure
-FaceRecognition-System/
-│
-├── pycache/ # Compiled Python files
-├── access_history/ # Logs of user entry/exit in .txt format
-├── delete.py # Script to delete users
-├── history.py # View access logs
-├── register.py # Register new users
-├── update.py # Update user facial data
-├── main.py # Main script to run the recognition system
 
-yaml
-Copier
-Modifier
