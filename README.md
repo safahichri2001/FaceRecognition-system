@@ -20,5 +20,60 @@
   <li>📱 <strong>Mobile App Integration:</strong> Connect with mobile app for managing reservations</li>
   <li>📝 <strong>History Management:</strong> View and manage access history via text files</li>
 </ul>
+## 🔐 Liveness Detection
 
+We use a spoof detection model via <a href="https://huggingface.co/" target="_blank">Hugging Face</a> to ensure that access is granted only to real, live users.  
+If a printed photo or screen is detected, access is denied immediately.
+
+---
+
+## 🖥️ GUI Demo
+
+The system includes a simple graphical interface built with <strong>Tkinter</strong>:
+
+- 📷 Live webcam feed  
+- 🔓 "Login" and 🔒 "Logout" buttons  
+- 🛑 Detection of spoof attempts  
+- ✅ Display of success or ❌ error messages  
+
+---
+
+## 📱 Mobile Integration
+
+This system is integrated with a mobile app to:
+
+- 🏢 Manage coworking space reservations  
+- ⏱️ Track access and exit times  
+- 🔄 Sync logs to a mobile dashboard  
+
+💡 <em>The mobile app handles authentication and scheduling while the face recognition system ensures secure physical access.</em>
+
+---
+
+## 📦 Dependencies
+
+- Python 3.7+  
+- OpenCV  
+- face_recognition  
+- Pillow  
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to modify or improve.
+
+---
+
+## 🛡️ License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+## 📬 Contact
+
+Made with ❤️ by <strong>Your Name</strong><br>
+📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+🐙 GitHub: <a href="https://github.com/your-username" target="_blank">@your-username</a>
 
