@@ -1,16 +1,17 @@
-# FaceRecognition-system 
-# 🧠 Face Recognition System
+<h1 align="center">🧠 FaceRecognition-System</h1>
+<p align="center">
+  🔐 An AI-powered facial recognition system with <strong>live spoof detection</strong>, 
+  integrated with a mobile app to manage coworking space access and reservations.
+</p>
 
-A complete facial recognition system built with Python. It allows users to register, recognize, update, and delete faces, while keeping track of access history.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.7%2B-blue?logo=python">
+  <img src="https://img.shields.io/badge/OpenCV-4.x-red?logo=opencv">
+  <img src="https://img.shields.io/badge/face_recognition-Yes-brightgreen">
+  <img src="https://img.shields.io/badge/Mobile%20App-Integrated-orange?logo=android">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?logo=license">
+</p>
 
-## 📌 Features
+---
 
-- ✅ Register new users with facial data
-- 🧠 Real-time face recognition
-- 📝 Track and save access logs per user
-- ✏️ Update existing face data
-- 🗑️ Delete registered users
-- 📂 Store access history in structured text files
-
-## 🗂️ Project Structure
-
+## 📁 Project Structure
