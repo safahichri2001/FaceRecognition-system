@@ -15,3 +15,16 @@
 ---
 
 ## 📁 Project Structure
+FaceRecognition-System/
+│
+├── pycache/ # Compiled Python files
+├── access_history/ # Logs of user entry/exit in .txt format
+├── delete.py # Script to delete users
+├── history.py # View access logs
+├── register.py # Register new users
+├── update.py # Update user facial data
+├── main.py # Main script to run the recognition system
+
+yaml
+Copier
+Modifier
