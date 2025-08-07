@@ -74,5 +74,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## 📬 Contact
 
 Made with ❤️ by <strong>Safa Hichri and Lamiss khalfallah </strong><br>
-
+<div align="center">
+  <img src="" alt="My Image" width="500"/>
+</div>
 
