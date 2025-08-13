@@ -1,4 +1,8 @@
-
+<h1 align="center">🧠 FaceRecognition-System</h1>
+<p align="center">
+  🔐 An AI-powered facial recognition system with <strong>live spoof detection</strong>, 
+  integrated with a mobile app to manage coworking space access and reservations.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7%2B-blue?logo=python">
