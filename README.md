@@ -38,17 +38,7 @@ The system includes a simple graphical interface built with <strong>Tkinter</str
 
 ---
 
-## 📱 Mobile Integration
 
-This system is integrated with a mobile app to:
-
-- 🏢 Manage coworking space reservations  
-- ⏱️ Track access and exit times  
-- 🔄 Sync logs to a mobile dashboard  
-
-💡 <em>The mobile app handles authentication and scheduling while the face recognition system ensures secure physical access.</em>
-
----
 
 ## 📦 Dependencies
 
