@@ -1,0 +1,9 @@
+# Personal data generated at runtime — never commit
+access_history/
+db/*
+!db/README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
