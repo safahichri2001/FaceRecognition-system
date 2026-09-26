@@ -1,0 +1,8 @@
+opencv-python
+face_recognition
+numpy
+Pillow
+gradio_client
+fastapi
+uvicorn
+python-multipart
